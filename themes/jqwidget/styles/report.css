@@ -1,0 +1,17 @@
+html, body {
+	font-family: "TH SarabunPSK";
+	font-size: 12pt;
+}
+.pagetitle {
+	text-align: center;
+	font-size: 16pt;
+}
+.printdate {
+  	width: 100%;
+  	height: 50px;
+  	font-size: 8pt;
+}
+.content {
+	margin-collapse: none; 
+	margin-top: 70px;
+}
